@@ -83,7 +83,7 @@ function App() {
       favorito: false,
       nome: 'TIAGO CAMILO',
       cargo: 'ESTUDANTE',
-      imagem: 'https:/github.com/tiago-camilo.png',
+      imagem: 'https://github.com/tiago-camilo.png',
       time: times[1].nome
     },
     {
